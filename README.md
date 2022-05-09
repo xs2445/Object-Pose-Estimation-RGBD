@@ -1,2 +1,2 @@
-# Object-Pose-Estimation-RGBD-FFB6D
+# Object-Pose-Estimation-RGBD
 This is a repository for course EECS6895
